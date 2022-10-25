@@ -10,7 +10,6 @@ env:
   AWS_REGION: us-east-1
   S3BUCKET: nba-aws-github-actions-webappdeploymentbucket-1uhuis3runs37
 
-
 jobs:
   build:
     name: Build and Package
